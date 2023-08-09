@@ -20,7 +20,7 @@ void delay(uint32_t time){
 
 
 int main(){
-	gpioConfig()
+	gpioConfig();
 	
 	while(1){
 	
